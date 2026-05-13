@@ -44,3 +44,7 @@ def clear():
 
 if __name__ == "__main__":
     app.run()
+
+@app.route("/")
+def home():
+    return "AutoBill Backend Running"
