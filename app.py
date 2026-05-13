@@ -9,7 +9,7 @@ cart = []
 prices = {
     "VapoRub": 15,
     "Gelatin Jujube": 3,
-    "MG Jelly": 2,
+    "MG jelly": 2,
     "Hong Sah Pill": 5,
     "Sharpener": 1
 }
